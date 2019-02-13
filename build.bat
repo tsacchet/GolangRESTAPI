@@ -1,0 +1,1 @@
+go build -ldflags "-X main.version=1.0 -X main.sha=abc57858585"
